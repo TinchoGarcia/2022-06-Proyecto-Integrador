@@ -6,3 +6,6 @@ Scrum es un marco de trabajo muy utilizado en la actualidad para utilizar en pro
 
 # Ceremonias SCRUM #
 Son reuniones que se realizan con fines específicos, entre los integrantes del grupo y/o los involucrados directa e indirectamente en el proyecto.
+
+
+**Reunión de planificación del Sprint o Sprint Planning Meeting:** Se produce al iniciar el Sprint y tiene como objetivo decidir que se hará. :clock12:
