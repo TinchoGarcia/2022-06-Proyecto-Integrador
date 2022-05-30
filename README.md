@@ -4,3 +4,5 @@ Proyecto donde trabajaremos 10 alumnos del aula 6. Cohorte 2022. ISPC. Desarroll
 Ceremonias, Artefactos y Roles de SCRUM
 Scrum es un marco de trabajo muy utilizado en la actualidad para utilizar en proyectos de todo ámbito en grupo, de forma colaborativa e incremental para el logro de objetivos entregables de manera pronta y en crecimiento constante.
 
+# Ceremonias SCRUM #
+Son reuniones que se realizan con fines específicos, entre los integrantes del grupo y/o los involucrados directa e indirectamente en el proyecto.
