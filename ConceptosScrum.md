@@ -9,3 +9,6 @@ Son reuniones que se realizan con fines específicos, entre los integrantes del 
 
 
 **Reunión de planificación del Sprint o Sprint Planning Meeting:** Se produce al iniciar el Sprint y tiene como objetivo decidir que se hará. :clock12:
+
+**Daily Scrum Meeting:** Se produce diariamente durante máximo 20 min. El objetivo es hablar sobre lo que se hizo, qué se va a hacer y 
+qué problemas se han encontrado.
