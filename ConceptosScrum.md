@@ -19,7 +19,12 @@ qué problemas se han encontrado.
 
 # Artefactos SCRUM #
 Son todos aquellos elementos físicos que se producen como resultado de la aplicación de Scrum, y estos son:
-
+    ● Product Backlog
+    ● Sprint Backlog
+    ● Incremento
+    
+El Product Backlog un inventario que contiene cualquier tipo de trabajo que haya que hacer en el producto: requerimientos,funcionalidades, correccion de Bugs, casos de uso, historias de usuario, tareas técnicas, trabajo de investigación y dependencias.
+Ademas, es la principal fuente de información sobre el producto en Scrum y contiene todos lo que necesitamos para desarrollar el mismo.
 
 # Roles #
 
