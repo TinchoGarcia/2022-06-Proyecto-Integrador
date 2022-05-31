@@ -14,4 +14,5 @@ Son reuniones que se realizan con fines específicos, entre los integrantes del 
 qué problemas se han encontrado.
 
 **Review Metting:** Se realiza al finalizar el Sprint y tiene como meta mostrar que es lo que se ha completado y que no.
+
 **Sprint Retrospective Meeting:** También se celebra cuando se termina el Sprint y se realiza para documentar que funcionó y que no durante la duración del mismo. Se trata de mejorar para el próximo Sprint, viendo que salió bien y que debe mejorar para seguir.
