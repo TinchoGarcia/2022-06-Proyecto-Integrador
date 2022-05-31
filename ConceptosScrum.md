@@ -1,7 +1,7 @@
 # 2022-06-Proyecto-Integrador
 Proyecto donde trabajaremos 10 alumnos del aula 6. Cohorte 2022. ISPC. Desarrollo Web.
 
-Ceremonias, Artefactos y Roles de SCRUM
+# Ceremonias, Artefactos y Roles de SCRUM #
 Scrum es un marco de trabajo muy utilizado en la actualidad para utilizar en proyectos de todo ámbito en grupo, de forma colaborativa e incremental para el logro de objetivos entregables de manera pronta y en crecimiento constante.
 
 # Ceremonias SCRUM #
@@ -26,7 +26,7 @@ Son todos aquellos elementos físicos que se producen como resultado de la aplic
 En la metodologia SCRUM se diferencian 3 roles:
     ●      SCRUM MASTER 
     ●      PRODUCT OWNER 
-    ●      EQUIPO DE DESARROLLO yTESTEO 
+    ●      EQUIPO DE DESARROLLO y TESTEO 
 
 El Scrum Master es el encargado de asegurar que la metodología se lleve a cabo tal y como está definida. Esto se logra haciendo que cada persona del equipo entienda la teoría y práctica de la metodología.
 
