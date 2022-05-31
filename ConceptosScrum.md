@@ -24,9 +24,9 @@ Son todos aquellos elementos físicos que se producen como resultado de la aplic
 # Roles #
 
 En la metodologia SCRUM se diferencian 3 roles:
-SCRUM MASTER
-PRODUCT OWNER 
-EQUIPO DE DESARROLLAO yTESTEO
+SCRUM MASTER \n
+PRODUCT OWNER \n
+EQUIPO DE DESARROLLO yTESTEO \n
 
 El Scrum Master es el encargado de asegurar que la metodología se lleve a cabo tal y como está definida. Esto se logra haciendo que cada persona del equipo entienda la teoría y práctica de la metodología.
 
