@@ -72,9 +72,10 @@ Durante la reunión de planificación de Sprint, el Scrum Master deberá desempe
 
 #  Equipo de desarrollo y testeo:
 
-es el tercer de los roles en scrum y el mismo se compone de todas las personas que cuentan con conocimientos necesarios y que se encargan de construir el incremento de producto en cada sprint.
+Es el tercer de los roles en scrum y el mismo se compone de todas las personas que cuentan con conocimientos necesarios y que se encargan de construir el incremento de producto en cada sprint.
 Para lograr que los incrementos de producto resulten efectivo se necesita que todos los integrantes del equipo tengan en claro y presente la visión del producto. Tal es así que los equipos estables tienden a conocer mejor su capacidad, lo que hace posible que la organización tenga cierta previsibilidad. A su vez la forma mas eficiente y efectiva de comunicar información dentro de un equipo de desarrollo es mediante la comunicación cara a cara.
 Por ultimo tenemos lo que es el testeo o prueba de software, que cada miembro del equipo de desarrollo puede realizarlo para poder chequear que el software continúa funcionando de manera correcta.
+
 
 
 
