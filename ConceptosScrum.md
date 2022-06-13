@@ -5,6 +5,9 @@ Proyecto donde trabajaremos 10 alumnos del aula 6. Cohorte 2022. ISPC. Desarroll
 Scrum es un marco de trabajo muy utilizado en la actualidad para utilizar en proyectos de todo ámbito en grupo, de forma colaborativa e incremental para el logro de objetivos entregables de manera pronta y en crecimiento constante.
 
 # Ceremonias SCRUM #
+
+<img src="ceremonias.png">
+
 Son reuniones que se realizan con fines específicos, entre los integrantes del grupo y/o los involucrados directa e indirectamente en el proyecto.
 
 
@@ -18,6 +21,8 @@ qué problemas se han encontrado.
 **Sprint Retrospective Meeting:** También se celebra cuando se termina el Sprint y se realiza para documentar que funcionó y que no durante la duración del mismo. Se trata de mejorar para el próximo Sprint, viendo que salió bien y que debe mejorar para seguir.
 
 # Artefactos SCRUM #
+
+<img src="artefactos.png">
 
 Son todos aquellos elementos físicos que se producen como resultado de la aplicación de Scrum, y estos son:
     ● Product Backlog
@@ -38,6 +43,8 @@ Es una lista de elementos en los que trabajar durante la etapa del Sprint, gesti
 Es el resultado del Sprint, es la suma de todas las tareas, casos de uso, historias de usuario y cualquier elemento que se haya desarrollado durante el Sprint y que será puesto a disposición del usuario final en forma de software, aportando un valor de negocio al producto que se está desarrollando.
 
 # Roles #
+
+<img src="scrum-team.png">
 
 En la metodologia SCRUM se diferencian 3 roles:
     ●      SCRUM MASTER 
