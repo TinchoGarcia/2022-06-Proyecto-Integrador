@@ -18,13 +18,24 @@ qué problemas se han encontrado.
 **Sprint Retrospective Meeting:** También se celebra cuando se termina el Sprint y se realiza para documentar que funcionó y que no durante la duración del mismo. Se trata de mejorar para el próximo Sprint, viendo que salió bien y que debe mejorar para seguir.
 
 # Artefactos SCRUM #
+
 Son todos aquellos elementos físicos que se producen como resultado de la aplicación de Scrum, y estos son:
     ● Product Backlog
     ● Sprint Backlog
     ● Incremento
-    
+
+## Product Backlog ##
+
 El Product Backlog un inventario que contiene cualquier tipo de trabajo que haya que hacer en el producto: requerimientos,funcionalidades, correccion de Bugs, casos de uso, historias de usuario, tareas técnicas, trabajo de investigación y dependencias.
 Ademas, es la principal fuente de información sobre el producto en Scrum y contiene todos lo que necesitamos para desarrollar el mismo.
+
+## Sprint Backlog ##
+
+Es una lista de elementos en los que trabajar durante la etapa del Sprint, gestionada por el equipo de desarrollo. Estos elementos se componen de tareas más pequeñas que permiten conseguir un incremento de software determinado.
+
+## Incremento ##
+
+Es el resultado del Sprint, es la suma de todas las tareas, casos de uso, historias de usuario y cualquier elemento que se haya desarrollado durante el Sprint y que será puesto a disposición del usuario final en forma de software, aportando un valor de negocio al producto que se está desarrollando.
 
 # Roles #
 
@@ -32,6 +43,8 @@ En la metodologia SCRUM se diferencian 3 roles:
     ●      SCRUM MASTER 
     ●      PRODUCT OWNER 
     ●      EQUIPO DE DESARROLLO y TESTEO 
+
+## Scrum Master ##
 
 El Scrum Master es el encargado de asegurar que la metodología se lleve a cabo tal y como está definida. Esto se logra haciendo que cada persona del equipo entienda la teoría y práctica de la metodología.
 
@@ -70,7 +83,13 @@ Durante la reunión de planificación de Sprint, el Scrum Master deberá desempe
             La duración del Sprint y la fecha de reunión de revisión.
             La definición de Terminado que determinará que el incremento está listo.
 
-#  Equipo de Desarrollo y Testeo
+## Product Owner ##
+
+Este actor tiene la responsabilidad de decidir que trabajo necesita hacerse y maximizar el valor del producto o proyecto que se esté llevando a cabo.
+Siendo más específicos, estas son las tareas que debe realizar este rol: gestiona los presupuestos y las prioridades, contrata al equipo de desarrollo, representa el negocio en sí, tomando decisiones por sí mismo si tiene la autoridad necesaria o consultando a alguien más, representándolo; además debe poder medir el valor generado e ir flexibilizando en caso que sea necesario, el trabajo a desarrollar en los Sprints dependiendo del tiempo y otras variables.
+
+
+##  Equipo de Desarrollo y Testeo ##
 
  Es el tercer de los roles en scrum y el mismo se compone de todas las personas que cuentan con conocimientos necesarios y que se encargan de construir el incremento de producto en cada sprint.
 Para lograr que los incrementos de producto resulten efectivo se necesita que todos los integrantes del equipo tengan en claro y presente la visión del producto. Tal es así que los equipos estables tienden a conocer mejor su capacidad, lo que hace posible que la organización tenga cierta previsibilidad. A su vez la forma mas eficiente y efectiva de comunicar información dentro de un equipo de desarrollo es mediante la comunicación cara a cara.
