@@ -6,7 +6,7 @@ Scrum es un marco de trabajo muy utilizado en la actualidad para utilizar en pro
 
 # Ceremonias SCRUM #
 
-<img src="ceremonias.png">
+https://github.com/TinchoGarcia/2022-06-Proyecto-Integrador/blob/main/Im%C3%A1genes%20Conceptos%20Scrum/ceremonias.png
 
 Son reuniones que se realizan con fines específicos, entre los integrantes del grupo y/o los involucrados directa e indirectamente en el proyecto.
 
@@ -22,7 +22,7 @@ qué problemas se han encontrado.
 
 # Artefactos SCRUM #
 
-<img src="artefactos.png">
+https://github.com/TinchoGarcia/2022-06-Proyecto-Integrador/blob/main/Im%C3%A1genes%20Conceptos%20Scrum/artefactos.png
 
 Son todos aquellos elementos físicos que se producen como resultado de la aplicación de Scrum, y estos son:
     ● Product Backlog
@@ -44,7 +44,7 @@ Es el resultado del Sprint, es la suma de todas las tareas, casos de uso, histor
 
 # Roles #
 
-<img src="scrum-team.png">
+https://github.com/TinchoGarcia/2022-06-Proyecto-Integrador/blob/main/Im%C3%A1genes%20Conceptos%20Scrum/scrum-team.png
 
 En la metodologia SCRUM se diferencian 3 roles:
     ●      SCRUM MASTER 
