@@ -5,8 +5,9 @@ Proyecto donde trabajaremos 10 alumnos del aula 6. Cohorte 2022. ISPC. Desarroll
 Scrum es un marco de trabajo muy utilizado en la actualidad para utilizar en proyectos de todo ámbito en grupo, de forma colaborativa e incremental para el logro de objetivos entregables de manera pronta y en crecimiento constante.
 
 # Ceremonias SCRUM #
+![ceremonias](https://user-images.githubusercontent.com/106358263/173865663-1dbe3481-f2e8-4078-a398-d3a18fb30901.png)
 
-https://github.com/TinchoGarcia/2022-06-Proyecto-Integrador/blob/main/Im%C3%A1genes%20Conceptos%20Scrum/ceremonias.png
+
 
 Son reuniones que se realizan con fines específicos, entre los integrantes del grupo y/o los involucrados directa e indirectamente en el proyecto.
 
@@ -22,7 +23,8 @@ qué problemas se han encontrado.
 
 # Artefactos SCRUM #
 
-https://github.com/TinchoGarcia/2022-06-Proyecto-Integrador/blob/main/Im%C3%A1genes%20Conceptos%20Scrum/artefactos.png
+![artefactos](https://user-images.githubusercontent.com/106358263/173865927-a40bb1e0-cfb1-4455-b3a0-937ca5b3e52b.png)
+
 
 Son todos aquellos elementos físicos que se producen como resultado de la aplicación de Scrum, y estos son:
     ● Product Backlog
@@ -44,7 +46,7 @@ Es el resultado del Sprint, es la suma de todas las tareas, casos de uso, histor
 
 # Roles #
 
-https://github.com/TinchoGarcia/2022-06-Proyecto-Integrador/blob/main/Im%C3%A1genes%20Conceptos%20Scrum/scrum-team.png
+![scrum-team](https://user-images.githubusercontent.com/106358263/173866039-d95e012a-9f88-44c3-a13d-9049c6b62229.png)
 
 En la metodologia SCRUM se diferencian 3 roles:
     ●      SCRUM MASTER 
