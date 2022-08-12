@@ -70,3 +70,8 @@ INSERT INTO Historial (ID_Historial, Fecha, Perro, Descripcion, Monto) VALUES
 UPDATE Dueno
 SET Direccion = 'Libertad 123'
 WHERE DNI = 31058004;
+
+SELECT Perro 'Id_Perro', Nombre
+FROM Historial H JOIN Perro P
+ON H.Perro=P.ID_Perro
+WHERE Fecha > '2022-01-01';
